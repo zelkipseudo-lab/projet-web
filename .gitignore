@@ -1,0 +1,3 @@
+#ne pas suivre les fichiers de configuration de l'environnement de développement
+node_modules/
+ldl
